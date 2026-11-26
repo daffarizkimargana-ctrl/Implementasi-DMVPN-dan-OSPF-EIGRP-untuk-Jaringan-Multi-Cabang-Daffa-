@@ -1,14 +1,10 @@
-# Implementasi-DMVPN-dan-OSPF-EIGRP-untuk-Jaringan-Multi-Cabang-Daffa-
-<h3>projek akhir semester untuk nilai</h3>
-
-
 spek buat projek (minimal)
 <body>1.processor intel i3 - i5 / amd A9, ryzen</body>
 
 <div align="center">
 
 # 🌐 Implementasi DMVPN & OSPF/EIGRP untuk Jaringan Multi-Cabang
-
+<h3>project akhir semester untuk nilai cisco</h3>
 ### 🚀 Solusi Konektivitas *Site-to-Site* Dinamis, Aman, dan Skalabel Berbasis Hub-and-Spoke
 
 [![Status Proyek](https://img.shields.io/badge/Status-Aktif%20%26%20Teruji-brightgreen?style=for-the-badge&logo=checkmarx)](https://github.com)
